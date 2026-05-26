@@ -128,7 +128,7 @@
   "ComputeServers": {
     "GH": {
       "FaaSType": "GitHubActions",
-      "UserName": "FaaSr",
+      "UserName": "JStover95",
       "UseSecretStore": true,
       "ActionRepoName": "FaaSr-Integration-Tests",
       "Branch": "main"
@@ -156,16 +156,16 @@
   "FunctionInvoke": "create-input",
   "DefaultDataStore": "S3",
   "FunctionGitRepo": {
-    "create_input": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "test_py_api": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "test_r_api": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "sync1": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "test_run_true": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "test_dontrun_false": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "test_run_false": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "test_dontrun_true": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "test_rank": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
-    "sync2": "FaaSr/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow"
+    "create_input": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "test_py_api": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "test_r_api": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "sync1": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "test_run_true": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "test_dontrun_false": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "test_run_false": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "test_dontrun_true": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "test_rank": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow",
+    "sync2": "JStover95/FaaSr-Integration-Test-Framework/functions/IntegrationTestWorkflow"
   },
   "LoggingDataStore": "S3",
   "FaaSrLog": "FaaSrLog",
